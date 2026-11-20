@@ -1,0 +1,12 @@
+# Your personal memory and notes - never upload these
+data/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
